@@ -40,4 +40,4 @@ Via command line:
 
 `$ git clone https://github.com/puglisac/coursera-c-sharp-ex9.git`  
 
-open MoviesApp.sln in [Visual Studio](https://visualstudio.microsoft.com/) and click Run to start.
+open Exercise9.sln in [Visual Studio](https://visualstudio.microsoft.com/) and click Run to start.
